@@ -1,0 +1,15 @@
+Dado el siguiente Medidor de Temperatura que consulta un servicio web de Wheather
+Channel:
+
+Se pide:
+1. Modifique la clase WheatherChannel para consumir el servicio web de
+https://openweathermap.org/current.
+Obtenga una cuenta gratuita desde: https://home.openweathermap.org/users/sign_up
+(registrándose). Una vez registrado, recibirá un email con una API KEY que necesitan para
+consumir los servicios. La activación de la API KEY demora unos 15 minutos una vez
+creada.
+Ejemplo de consumo del clima en Viedma en celsius:
+https://api.openweathermap.org/data/2.5/weather?q=Viedma,Argentina&units=metric&APPID
+=TU_API_KEY
+
+mi Api:603baf60189cdb8af361473125dd9d9a
